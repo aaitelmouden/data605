@@ -1,6 +1,6 @@
 # Fundamentals of Computational Mathematics Project
 
-**Video Presentation*: https://youtu.be/wjA-t5UOirg 
+**Video Presentation**: https://youtu.be/wjA-t5UOirg 
 
 **References :**
 - [Medium](https://medium.com/analytics-vidhya/advanced-house-price-prediction-kaggle-competition-adefb458d201)
